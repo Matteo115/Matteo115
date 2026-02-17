@@ -1,6 +1,6 @@
 <table border="0" width="100%">
 <tr>
-<td width="60%" valign="middle">
+<td width="50%" valign="middle">
 <h1>Hi there, I'm Matteo Bruni! 👋</h1>
 <p>
 <b>Data Science | AI & Machine Learning | Business Analytics</b>
@@ -46,7 +46,7 @@ I also love getting hands-on with <b>IT Infrastructure</b>, whether that means m
 <p>
 My passion for tech started with <b>video games and simulation logic</b>, which taught me that every complex problem is just a puzzle waiting to be solved.</p>
 </td>
-<td width="70%" valign="middle">
+<td width="50%" valign="middle">
 <img src="banner.gif" width="100%" alt="Pixel Art Cityscape" />
 </td>
 </tr>
