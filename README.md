@@ -46,7 +46,7 @@ I also love getting hands-on with <b>IT Infrastructure</b>, whether that means m
 <p>
 My passion for tech started with <b>video games and simulation logic</b>, which taught me that every complex problem is just a puzzle waiting to be solved.</p>
 </td>
-<td width="50%" valign="middle">
+<td width="70%" valign="middle">
 <img src="banner.gif" width="100%" alt="Pixel Art Cityscape" />
 </td>
 </tr>
